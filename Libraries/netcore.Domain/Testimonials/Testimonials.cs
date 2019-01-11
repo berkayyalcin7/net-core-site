@@ -9,5 +9,7 @@ namespace netcore.Domain.Testimonials
         public string Description { get; set; }
         public string CompanyName { get; set; }
 
+        public string WebSite { get; set; }
+
     }
 }
